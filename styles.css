@@ -1,6 +1,12 @@
 body {
   text-align: center;
+  background-color: #fecfd9;
 }
 footer a {
   padding: 5px 5px;
+  color: #866ee0;
+}
+.wrapper {
+  background-color: #fec93b;
+  border-radius: 15px;
 }
